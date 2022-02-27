@@ -1,0 +1,11 @@
+{
+  "name": "gitbook-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:equilibrrrrium/gitbook-docs.git",
+  "author": "jawny-miele <jawny.miele@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
