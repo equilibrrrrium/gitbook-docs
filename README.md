@@ -1,22 +1,24 @@
 ---
-description: About bomb.money
+description: About Equilibrrrrium.money
 ---
 
 # Introduction
 
+## Introduction
+
 Welcome to Bomb Money! If this is your first time here, please take some time to read through this documentation before you begin using the protocol. This documentation is intended to take you through the entire process of how to get started using Bomb Money to earn stable, high yields that are only possible through the power of DeFi, but with the stability and security of exposure to Bitcoin, the world's largest and most stable crypto asset. Let's dive in!
 
-## Origins
+### Origins
 
 Bomb Money is based upon the work of the brilliant **tomb.finance** project on the Fantom network. At the time, it was hard to believe that nothing similar existed on any other larger networks, so it was a great opportunity to bring an amazingly stable and robust DeFi protocol like **tomb.finance** with a few unique twists to the masses. As far as networks go, Binance Smart Chain (BSC) seemed like the perfect choice with its fast transaction speeds, low gas fees, and much larger user base, so one thing led to another and now here we are!\
 \
 This project would certainly not be possible without the work of the [tomb.finance](https://tomb.finance) team. Their project being fully open source and developed exceptionally well made it a pleasure to work with, and we would not be here today without their efforts, so we want to give a special thank you to them for that.
 
 {% hint style="info" %}
-Bomb Money was launched on November 23, 2021. The rest is history!&#x20;
+Bomb Money was launched on November 23, 2021. The rest is history!
 {% endhint %}
 
-## What's the point?
+### What's the point?
 
 Ultimately, the purpose of the Bomb Money protocol is to provide the means for its underlying BOMB asset to maintain a value that is algorithmically pegged to the value to Bitcoin (BTC) at a 10,000 to 1 ratio.
 
@@ -30,16 +32,16 @@ As the Bomb Money ecosystem grows over time, the potential future applications a
 BOMB is the native token of the Bomb Money protocol. The built-in stability mechanisms within the protocol aim to maintain BOMB's peg of 10,000 BOMB = 1 Bitcoin (BTC) in the long run.
 {% endhint %}
 
-## What are the Bomb Money protocol tokens?&#x20;
+### What are the Bomb Money protocol tokens?
 
 Bomb Money’s multi-token protocol currently consists of the following four tokens, and each plays a critical role in how the protocol works to maintain peg:
 
 1. **BOMB Tokens ($BOMB)** - The BOMB token is designed for use as a medium of exchange, and is intended to have many other use cases as the Bomb Money ecosystem grows. BOMB is algorithmically pegged to Bitcoin (BTC) at a ratio of 10,000 BOMB to 1 BTC.
-2. ****[**xBOMB Tokens ($XBOMB)**](protocol/xbomb-bomb-staking.md) - xBOMB is the governance token of BOMB Protocol. It can be obtained by staking BOMB. This helps to keep BOMB supply limited while providing another means of earning yield for BOMB holders, among other planned use cases.
+2. \*\*\*\*[**xBOMB Tokens ($XBOMB)**](protocol/xbomb-bomb-staking.md) - xBOMB is the governance token of BOMB Protocol. It can be obtained by staking BOMB. This helps to keep BOMB supply limited while providing another means of earning yield for BOMB holders, among other planned use cases.
 3. **BOMB Shares ($BSHARE)** - BSHARE can be staked in the [Boardroom](protocol/boardroom.md) to earn a portion of minted BOMB as rewards to those BSHARE holders for investing in the health and stability of the protocol.
-4. ****[**BOMB Bonds ($BBOND)**](protocol/bonds-mechanism.md) - BBOND’s main job is to help incentivize and reward users for helping to regain peg during times of supply contraction below peg.
+4. \*\*\*\*[**BOMB Bonds ($BBOND)**](protocol/bonds-mechanism.md) - BBOND’s main job is to help incentivize and reward users for helping to regain peg during times of supply contraction below peg.
 
-## How does it work?
+### How does it work?
 
 The Bomb Money protocol works through a synergistic design of unique tokens and mechanisms that create an automatic, self-reinforcing system to help maintain the peg (10,000 BOMB = 1 Bitcoin). Each of these tokens and mechanisms will be explained in further detail within this documentation, but for now let's have a look at a brief overview of how it all works:
 
@@ -51,9 +53,9 @@ The Bomb Money protocol works through a synergistic design of unique tokens and 
 There are so many different ways you can utilize the mechanisms of the Bomb Money protocol to earn yield. Pick a strategy that is right for you, based upon your own knowledge and experience. Even the most simple and basic of strategies can earn great returns, but feel free to experiment with more complex strategies as you learn how the protocol works!
 {% endhint %}
 
-## What exactly is the peg?
+### What exactly is the peg?
 
-BOMB is a token that is intended to track the price of Bitcoin (BTC) algorithmically. The ratio for this peg is set at 10,000 BOMB to 1 BTC. BOMB **actively tracks this peg via an algorithm**, but that **does not mean** it will be valued at 10,000 BOMB to 1 BTC at all times as **it is not collateralized**. **BOMB is not to be confused for a crypto or fiat-backed stablecoin.**&#x20;
+BOMB is a token that is intended to track the price of Bitcoin (BTC) algorithmically. The ratio for this peg is set at 10,000 BOMB to 1 BTC. BOMB **actively tracks this peg via an algorithm**, but that **does not mean** it will be valued at 10,000 BOMB to 1 BTC at all times as **it is not collateralized**. **BOMB is not to be confused for a crypto or fiat-backed stablecoin.**
 
 The entire design of the Bomb Money protocol is intended to try and maintain this peg as closely as possible, but as it is an algorithmic peg, this will never be a completely stable process. In fact, some of the unique profit-generating opportunities offered by the protocol actually only exist because of these price fluctuations.
 
@@ -64,4 +66,5 @@ To put it simply, there will **almost certainly be times when the price of BOMB 
 When the protocol is healthy and stable, the price of BOMB will likely look similar to above, with price fluctuating above and below peg as the mechanisms of the protocol work to influence supply and demand and maintain an average price around the peg.
 
 Keep this in mind when developing your strategies and when taking a more active role in the protocol.
-# gitbook-docs
+
+## gitbook-docs
