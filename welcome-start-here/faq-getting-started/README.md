@@ -1,18 +1,22 @@
 # Getting Started
 
-### **What do I need to get started with Bomb Money?**
+### **What do I need to get started with EquiliBRRRRium?**
 
-First, please make sure to read the [**introduction**](../../) if you haven't already so that you can truly understand the concepts behind Bomb Money and how they work before you invest in it.
+We will assume that to this point, you’ve already read through our introduction section and started to get familiar with the overall concept. If not, we strongly advise you to do so before you invest in EquiliBRRRRium.
 
-Second, as always, with anything in crypto it’s wise to keep the following rules in mind:
+Please, always bear in mind that before investing money in anything, it is vital to follow those general rules:
 
-* Never invest more than you are comfortable with.
-* Do your own research.
-* Diversify your risks.
-* Take your initial investment out when in profit to secure your capital.
+Never invest more than you are comfortable with
 
-Once you are ready to take the next step it's time to figure out how to bridge your funds to Binance Smart Chain (BSC) if you don't already have investable funds there. Let's go through the entire process step-by-step, and feel free to skip through any parts you already understand.
+DYOR (Do Your Own Research)
+
+Diversify your portfolio in order to limitate the risks
+
+Take your initial investment out when in profit to secure your capital.\
+\
+Now that we have that out of the way, it’s time we figured out how to bridge your funds to Binance Smart Chain if you don't already have investable funds there. Let's go through the entire process step-by-step, and feel free to skip through any parts you already understand.\
+
 
 {% hint style="warning" %}
-We _highly_ recommend reading **all** of the documentation before participating in the Bomb Money protocol. Not only will it benefit you, but it will benefit the entire ecosystem when the protocol is being used correctly by a fully educated user base. You'll be glad you did!
+We _highly_ ecommend reading all of the documentation before participating in the EquiliBRRRRium protocol. Not only will it benefit you, but it will benefit the entire ecosystem when the protocol is being used correctly by a fully educated user base**.**
 {% endhint %}

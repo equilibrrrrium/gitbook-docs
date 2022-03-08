@@ -7,7 +7,7 @@
 * [Introduction](README.md)
 * [Getting Started](welcome-start-here/faq-getting-started/README.md)
   * [Getting Funds to Binance Smart Chain (BSC)](welcome-start-here/faq-getting-started/getting-funds-to-binance-smart-chain-bsc.md)
-  * [How to Buy BOMB](welcome-start-here/faq-getting-started/how-to-buy-bomb.md)
+  * [How to Buy BRRRR](welcome-start-here/faq-getting-started/how-to-buy-bomb.md)
 * [Strategies](welcome-start-here/strategies.md)
 * [Autocompounding Vaults](welcome-start-here/autocompounding-vaults.md)
 
@@ -15,10 +15,9 @@
 
 * [Tokens](protocol/tokens.md)
 * [Boardroom](protocol/boardroom.md)
-* [BOMB Distribution](protocol/bomb-distribution.md)
-* [Bonds (BBOND)](protocol/bonds-mechanism.md)
+* [BRRRR Distribution](protocol/bomb-distribution.md)
+* [Bonds (BRRRRBOND)](protocol/bonds-mechanism.md)
 * [Farms](protocol/farms.md)
-* [xBOMB - BOMB Staking](protocol/xbomb-bomb-staking.md)
 * [Roadmap](protocol/roadmap.md)
 * [Treasury Transactions](protocol/treasury-transactions.md)
 * [Other Protocol Contract Addresses](protocol/other-protocol-contract-addresses.md)

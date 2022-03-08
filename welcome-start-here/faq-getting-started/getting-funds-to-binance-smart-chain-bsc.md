@@ -13,7 +13,7 @@ There are plenty of great guides already out there on how to set that up. Here a
 #### Metamask
 
 * **\[TEXT]** [Connecting MetaMask to Binance Smart Chain (Binance Academy)](https://academy.binance.com/en/articles/connecting-metamask-to-binance-smart-chain)
-* **\[VIDEO]** [How to Connect MetaMask to the Binance Smart Chain (BSC)](https://www.youtube.com/watch?v=HVH6wpaHcDI)&#x20;
+* **\[VIDEO]** [How to Connect MetaMask to the Binance Smart Chain (BSC)](https://www.youtube.com/watch?v=HVH6wpaHcDI)
 
 #### Trust Wallet
 
@@ -38,8 +38,8 @@ There are plenty of great services out there these days that make it super simpl
 * **\[TEXT]** [Cross-Chain ElkNet bridge (Official ElkNet Docs)](https://docs.elk.finance/features/cross-chain-elknet-bridge)
 * **\[VIDEO]** [How to Bridge Any Token onto Any Chain Easily! (Elk.Finance) (The Calculator Guy)](https://www.youtube.com/watch?v=fKSkjfsUA-U)
 
-Now that you've got your wallet connected to Binance Smart Chain (BSC) and your funds ready to deploy, you're finally ready to get started with Bomb Money. In the next section, let's learn how to actually buy BOMB and other ecosystem tokens, and then explore some of the different strategies you could use depending on your risk tolerance and how you intend to utilize the protocol.
+Now that you've got your wallet connected to Binance Smart Chain (BSC) and your funds ready to deploy, you're finally ready to get started with EquiliBRRRRium. In the next section, let's learn how to actually buy BRRRR and other ecosystem tokens, and then explore some of the different strategies you could use depending on your risk tolerance and how you intend to utilize the protocol.
 
 {% hint style="danger" %}
-If you haven't already at this point, please thoroughly read through the protocol documentation and be absolutely sure you fully understand each element of the Bomb Money protocol before proceeding. You'll have a much easier time understanding the potential strategies for using the protocol if you do!
+If you haven't already at this point, please thoroughly read through the protocol documentation and be absolutely sure you fully understand each element of the EquiliBRRRRium protocol before proceeding. You'll have a much easier time understanding the potential strategies for using the protocol if you do!
 {% endhint %}
