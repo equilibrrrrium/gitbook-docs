@@ -15,12 +15,13 @@ If this is your first visit, please take the time to read through the documentat
 ### Origins
 
 EquiliBRRRRium is rooted in the excellent work of the BSC project called Bomb.Money. We loved the concept and decided to operate a rework and to tweak it in order to offer an even better DeFi experience on the Binance Smart Chain network. The protocol’s name is the embodiment of the teamwork that’s been pushed towards finding the best balance between stability and high yield, so your generated revenue can go BRRRR! safely.\
-\
 
 
 {% hint style="info" %}
-Equilibrium will launch on March (insert date here), 2022.&#x20;
+Equilibrium will launch on **March 26, 2022 at 4:00 PM UTC**. &#x20;
 {% endhint %}
+
+`Please stare at the countdown on our Dapp to be ready!` :eyes: ``&#x20;
 
 ### Purpose
 
