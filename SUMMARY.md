@@ -22,11 +22,11 @@
 * [Treasury Transactions](protocol/treasury-transactions.md)
 * [Other Protocol Contract Addresses](protocol/other-protocol-contract-addresses.md)
 
-## 💣 Helpful Guides
+## 🔥 Helpful Guides
 
 * [Provide LP](helpful-guides/provide-lp.md)
 
-## 💣 Links
+## 🔥 Links
 
 * [Discord](https://discord.bomb.money)
 * [Telegram](https://t.me/bombmoneybsc)
