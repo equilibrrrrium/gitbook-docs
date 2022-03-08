@@ -32,11 +32,11 @@ The amount of BRRRRRSHARE you currently have staked in the Boardroom.
 * Any interaction with the Boardroom (staking/unstaking BRRRRSHARE or withdrawing BRRRR rewards) will **lock your staked BRRRRRSHARE for 6 epochs and BRRRR rewards for 3 epochs.**
 *   Distribution of BRRRR during expansion (Boardoom printing):
 
-    **X%** goes to Boardroom BRRRRSHARE stakers as rewards
+    **80%** goes to Boardroom BRRRRSHARE stakers as rewards
 
-    **X%** goes to DAO fund
+    **15%**  goes to DAO fund
 
-    **X%** goes to dev fund
+    **5%**  goes to dev fund&#x20;
 * Epoch Expansion: The current expansion cap is based on the currently circulating BRRRR supply (see [BRRRR Distribution ](bomb-distribution.md)for details). If there are bonds to be redeemed, 65% of minted BRRRR goes to the treasury until its sufficiently stocked to satisfy future bond redemption.
 
 {% hint style="info" %}
