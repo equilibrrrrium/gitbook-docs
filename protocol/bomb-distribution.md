@@ -20,6 +20,6 @@ The amount of new BRRRR distributed depends on our position above peg and also t
 | Up to 50M          | 1.25% expansion  |
 | 50M+               | 1% expansion     |
 
-## BOMB Rewards Distribution Flowchart
+## BRRRR Rewards Distribution Flowchart
 
 ![A flowchart of how BRRRR rewards are distributed throughout the protocol](<../.gitbook/assets/BOMB Protocol Minting Flow.drawio (2).png>)

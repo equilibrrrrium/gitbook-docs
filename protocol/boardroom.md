@@ -20,7 +20,7 @@ Let's take a look at each element of the Boardroom user interface and what it me
 &#x20;   **5. BRRRRRSHARES STAKED**\
 &#x20;      The total amount of BRRRRSHARE currently staked in the Boardroom.
 
-&#x20;   **6. BOMB Earned**\
+&#x20;   **6. BRRRR Earned**\
 &#x20;      The amount of BRRRR you've earned as rewards for staking BRRRRSHARE in the Boardroom.
 
 &#x20;   **7. BSHARE Staked**\
@@ -79,7 +79,7 @@ There is a balanced state "at peg" when BRRRR's TWAP is between 1.00 and 1.01, w
 
 **8. If BRRRR continues to climb above the price of the peg, will that influence how long the debt phase lasts?**
 
-Depending on the price of BRRRR, the Boardroom print will have to adjust to provide a buffer for any unclaimed BRRRRBOND. As the price of BOMB climbs above the peg, more BRRRR needs to be distributed to the treasury to account for BRRRRBOND redemption plus premiums.
+Depending on the price of BRRRR, the Boardroom print will have to adjust to provide a buffer for any unclaimed BRRRRBOND. As the price of BRRRR climbs above the peg, more BRRRR needs to be distributed to the treasury to account for BRRRRBOND redemption plus premiums.
 
 **9. How can I figure out what my future BRRRR rewards will be from the Boardroom?**
 
