@@ -1,12 +1,13 @@
 # Farms
 
-![The EquiliBRRRRium farms currently available for staking LP tokens to earn BRRRRSHARE](<../.gitbook/assets/image (8).png>)
+![](../.gitbook/assets/Farms.png)
 
 To incentivize healthy liquidity pools for the EquiliBRRRRium protocol tokens, our LP farms have been seeded with BRRRRSHARE to be distributed as rewards to LP stakers across a time period of 12 months. The total BRRRRSHARE rewards are distributed from each farm as follows:
 
-* BRRRR-BNB LP: X% of BSHARE rewards
+* BRRRR-BNB LP: X% of BRRRRSHARE rewards
 * BRRRRSHARE-BNB LP: X% of BRRRRSHARE rewards
-* BRRRR-BRRRRSHARE LP: 10% of BRRRRSHARE rewards
+
+
 
 ### **1. What will happen when the circulating supply equals the total supply? Will reward emissions stop?**
 
