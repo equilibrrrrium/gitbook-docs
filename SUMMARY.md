@@ -2,7 +2,7 @@
 
 * [bomb.money Home](https://app.bomb.money)
 
-## 💣 Welcome / Start Here
+## 🔥 Welcome / Start Here
 
 * [Introduction](README.md)
 * [Getting Started](welcome-start-here/faq-getting-started/README.md)
@@ -11,7 +11,7 @@
 * [Strategies](welcome-start-here/strategies.md)
 * [Autocompounding Vaults](welcome-start-here/autocompounding-vaults.md)
 
-## 💣 Protocol
+## 🔥 Protocol
 
 * [Tokens](protocol/tokens.md)
 * [Boardroom](protocol/boardroom.md)
