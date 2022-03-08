@@ -6,7 +6,7 @@
 
 Contract: [0x0000000000000000000000000000000000](https://bscscan.com/address/0x522348779dcb2911539e76a1042aa922f9c47ee3)
 
-**The BRRRR token is designed to be used as a medium of exchange. The built-in stability mechanisms within the protocol aim to maintain BOMB's peg of 10,000 BRRRR = 1 Binance Coin (BNB) in the long run.**
+The BRRRR token is designed to be used as a medium of exchange. The built-in stability mechanisms within the protocol aim to maintain BRRRR's peg of 10,000 BRRRR = 1 Binance Coin (BNB) in the long run.
 
 {% hint style="warning" %}
 Note that BRRRR actively pegs via an algorithm, but that does not mean it will be valued at 10,000 BRRRR to 1 BNB at all times as **it is not collateralized**.
@@ -14,7 +14,7 @@ Note that BRRRR actively pegs via an algorithm, but that does not mean it will b
 
 
 
-## BSHARES - BOMB Shares
+## BRRRRSHARES - BRRRR Shares
 
 ![BRRRRSHARE EquiliBRRRRium token](../.gitbook/assets/brrrrshares.png)
 
