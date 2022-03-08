@@ -4,7 +4,7 @@
 
 ### What are BRRRRBOND (Bonds)?
 
-Bonds are unique tokens that can be utilized to help stabilize BOMB price around peg (10,000 BRRRR = 1 BNB) by reducing the circulating supply of BRRRR if the TWAP (time-weighted average price) goes below peg
+Bonds are unique tokens that can be utilized to help stabilize BRRRR price around peg (10,000 BRRRR = 1 BNB) by reducing the circulating supply of BRRRR if the TWAP (time-weighted average price) goes below peg
 
 ### When can I buy BRRRRBOND (Bonds)?
 
