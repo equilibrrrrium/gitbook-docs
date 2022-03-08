@@ -32,7 +32,7 @@ The amount of BRRRRRSHARE you currently have staked in the Boardroom.
 * Any interaction with the Boardroom (staking/unstaking BRRRRSHARE or withdrawing BRRRR rewards) will **lock your staked BRRRRRSHARE for 6 epochs and BRRRR rewards for 3 epochs.**
 *   Distribution of BRRRR during expansion (Boardoom printing):
 
-    **X%** goes to Boardroom BSHARE stakers as rewards
+    **X%** goes to Boardroom BRRRRSHARE stakers as rewards
 
     **X%** goes to DAO fund
 
