@@ -8,7 +8,7 @@ description: About Equilibrrrrium.money
 
 **Welcome to EquiliBRRRRium!**&#x20;
 
-![WAGT²MI - We All gonna Try to Make it!](.gitbook/assets/Discord\_Logo.png)
+![WAG2TMI - We All Gonna Try To Make it!](.gitbook/assets/Discord\_Logo.png)
 
 If this is your first visit, please take the time to read through the documentation before you begin using our protocol. We will guide you through the process of how to get started using EquiliBRRRRium to generate high yield passive revenue stabilized by its exposure to BNB. Let’s dive in!
 
