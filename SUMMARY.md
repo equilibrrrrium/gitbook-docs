@@ -9,7 +9,6 @@
   * [Getting Funds to Binance Smart Chain (BSC)](welcome-start-here/faq-getting-started/getting-funds-to-binance-smart-chain-bsc.md)
   * [How to Buy BRRRR](welcome-start-here/faq-getting-started/how-to-buy-bomb.md)
 * [Strategies](welcome-start-here/strategies.md)
-* [Autocompounding Vaults](welcome-start-here/autocompounding-vaults.md)
 
 ## 🔥 Protocol
 

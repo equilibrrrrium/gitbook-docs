@@ -1,5 +1,0 @@
-# Autocompounding Vaults
-
-Coming soon
-
-##
