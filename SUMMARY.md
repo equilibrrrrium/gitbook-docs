@@ -28,8 +28,7 @@
 
 ## 🔥 Links
 
-* [Telegram](https://t.me/bombmoneybsc)
-* [Medium](https://bombbshare.medium.com)
-* [Twitter](https://twitter.com/bombmoneybsc)
-* [GitBook ](https://github.com/bombmoney)
-* [Linktree](https://www.staysafu.org/audit/bombmoney)
+* [Telegram](https://t.me/Equilibrrrrium)
+* [Medium](https://equilibrrrrium.medium.com)
+* [Twitter](https://twitter.com/Equilibrrrrium)
+* [Linktree](https://linktr.ee/equilibrrrrium)

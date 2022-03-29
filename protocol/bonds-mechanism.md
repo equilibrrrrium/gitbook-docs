@@ -1,6 +1,6 @@
 # Bonds (BRRRRBOND)
 
-![The "Pit", where you can interact with the protocol's bonding mechanism](<../.gitbook/assets/image (9).png>)
+![The "Pit", where you can interact with the protocol's bonding mechanism](../.gitbook/assets/Bond.JPG)
 
 ### What are BRRRRBOND (Bonds)?
 
