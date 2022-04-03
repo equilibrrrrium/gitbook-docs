@@ -6,7 +6,7 @@ Buy BRRRR: Paired with native BNB:(link)
 
 Buy BRRRSHARE:  Paired with BNB: (link)
 
-You can also find quick and easy links to purchase each token on the Bomb Money app's main page
+You can also find quick and easy links to purchase each token on the EquiliBRRRRium Money app's main page
 
 ![Quick access to the DEX](<../../.gitbook/assets/Buy BRRRR.jpg>)
 
