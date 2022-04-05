@@ -16,7 +16,7 @@ The strategies described here are intended only to illustrate how to use the Bom
 
 Once you have familiarized yourself with EquiliBRRRRium and how everything works, you might be interested to try an active and advanced strategy to diversify your passive income streams and potentially increase yields.&#x20;
 
-One way to do this would be to buy some BRRRR and pair it with BNB to receive BRRRR-BNB LP tokens. (Refer to the Provide LP section for instructions on how to do this.) You can then stake those LP tokens in our Farms to earn BRRRRSHARE, which you can then withdraw on a regular basis and stake in the Boardroom to earn additional BOMB when above peg and the Boardroom is printing. What you do with the BRRRR you earn then is up to you.
+One way to do this would be to buy some BRRRR and pair it with BNB to receive BRRRR-BNB LP tokens. (Refer to the Provide LP section for instructions on how to do this.) You can then stake those LP tokens in our Farms to earn BRRRRSHARE, which you can then withdraw on a regular basis and stake in the Boardroom to earn additional BRRRR when above peg and the Boardroom is printing. What you do with the BRRRR you earn then is up to you.
 
 ### **More Complex/Active Strategies**
 
