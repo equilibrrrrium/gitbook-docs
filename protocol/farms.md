@@ -4,14 +4,14 @@
 
 To incentivize healthy liquidity pools for the EquiliBRRRRium protocol tokens, our LP farms have been seeded with BRRRRSHARE to be distributed as rewards to LP stakers across a time period of 12 months. The total BRRRRSHARE rewards are distributed from each farm as follows:
 
-* BRRRR-BNB LP: X% of BRRRRSHARE rewards
-* BRRRRSHARE-BNB LP: X% of BRRRRSHARE rewards
+* BRRRR-BNB LP: <mark style="color:red;">**XXXXXX**</mark> <mark style="color:red;"></mark><mark style="color:red;"></mark> % of BRRRRSHARE rewards
+* BRRRRSHARE-BNB LP: <mark style="color:red;">**XXXXXXX**</mark> % of BRRRRSHARE rewards
 
 
 
 ### **1. What will happen when the circulating supply equals the total supply? Will reward emissions stop?**
 
-Yes. Once the max supply of BRRRRSHARE **(insert max supply here)** is reached, reward emissions end. This will happen in exactly one year from when the BRRRRSHARE farms started on November 25th, 2021. BRRRRSHARE will always continue to print BRRRR in the Boardroom, though, as long as BRRRR remains above peg.
+Yes. Once the max supply of BRRRRSHARE **(**<mark style="color:red;">**insert max supply here**</mark>**)** is reached, reward emissions end. This will happen in exactly one year from when the BRRRRSHARE farms started on November 25th, 2021. BRRRRSHARE will always continue to print BRRRR in the Boardroom, though, as long as BRRRR remains above peg.
 
 {% hint style="danger" %}
 **BRRRRSHARE reward emissions for the current LP farms are scheduled to end on- insert ending date here- once the total BRRRRSHARE supply has been distributed.**
