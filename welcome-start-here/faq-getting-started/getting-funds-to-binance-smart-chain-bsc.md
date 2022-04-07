@@ -38,7 +38,7 @@ There are plenty of great services out there these days that make it super simpl
 * **\[TEXT]** [The Best Crypto & Binance Bridge](https://cbridge-docs.celer.network/tutorial/cross-chain-transfer) : CELER Bridge :thumbsup:
 * **\[VIDEO]** [How to Bridge Any Token onto Any Chain Easily with Celer Bridge! ](https://www.youtube.com/watch?v=DWwVCZ5OiKg)
 
-Now that you've got your wallet connected to Binance Smart Chain (BSC) and your funds ready to deploy, you're finally ready to get started with EquiliBRRRRium. In the next section, let's learn how to actually buy BRRRR and other ecosystem tokens, and then explore some of the different strategies you could use depending on your risk tolerance and how you intend to utilize the protocol.
+Now that you've got your wallet connected to BNB Chain and your funds ready to deploy, you're finally ready to get started with EquiliBRRRRium. In the next section, let's learn how to actually buy BRRRR and other ecosystem tokens, and then explore some of the different strategies you could use depending on your risk tolerance and how you intend to utilize the protocol.
 
 {% hint style="danger" %}
 If you haven't already at this point, please thoroughly read through the protocol documentation and be absolutely sure you fully understand each element of the EquiliBRRRRium protocol before proceeding. You'll have a much easier time understanding the potential strategies for using the protocol if you do!
