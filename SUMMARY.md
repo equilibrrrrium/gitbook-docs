@@ -1,6 +1,6 @@
 # Table of contents
 
-* [bomb.money Home](https://app.bomb.money)
+* [Go to the Dapp!](https://app.equilibrrrrium.money)
 
 ## 🔥 Welcome / Start Here
 

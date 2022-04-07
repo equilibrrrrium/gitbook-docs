@@ -22,4 +22,4 @@ The amount of new BRRRR distributed depends on our position above peg and also t
 
 ## BRRRR Rewards Distribution Flowchart
 
-![How BRRRR rewards are distributed throughout the protocol?](../.gitbook/assets/BRRRR\_BRRRRDistribution\_v3.png)
+![Distribution of BRRRR rewards throughout the protocol](../.gitbook/assets/BRRRR\_BRRRRDistribution\_v3.png)

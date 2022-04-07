@@ -18,5 +18,5 @@ Now that we have that out of the way, it’s time we figured out how to bridge y
 
 
 {% hint style="warning" %}
-We _highly_ ecommend reading all of the documentation before participating in the EquiliBRRRRium protocol. Not only will it benefit you, but it will benefit the entire ecosystem when the protocol is being used correctly by a fully educated user base**.**
+We _highly_ recommend reading all of the documentation before participating in the EquiliBRRRRium protocol. Not only will it benefit you, but it will benefit the entire ecosystem when the protocol is being used correctly by a fully educated user base**.**
 {% endhint %}
