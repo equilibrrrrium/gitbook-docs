@@ -6,11 +6,11 @@ We will assume that to this point, you’ve already read through our introductio
 
 Please, always bear in mind that before investing money in anything, it is vital to follow those general rules:
 
-Never invest more than you are comfortable with
+&#x20;     :circus\_tent: **Never invest more than you are comfortable with**
 
-DYOR (Do Your Own Research)
+&#x20;     :carousel\_horse: **DYOR (Do Your Own Research)**
 
-Diversify your portfolio in order to limitate the risks
+&#x20;     :man\_juggling: **Diversify your portfolio in order to limitate the risks**
 
 Take your initial investment out when in profit to secure your capital.\
 \
