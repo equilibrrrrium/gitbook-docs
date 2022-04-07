@@ -2,9 +2,9 @@
 
 You can buy BRRRR or BRRRRSHARE on PancakeSwap or using any decentralized exchange aggregator (like Bogged Finance).
 
-:rocket:Buy BRRRR: Paired with native BNB:  **coming soon**
+:rocket:Buy BRRRR: Paired with native BNB:  <mark style="color:red;">**PCS direct link (coming soon...)**</mark>
 
-:rocket:Buy BRRRSHARE:  Paired with BNB: **coming soon**\
+:rocket:Buy BRRRSHARE:  Paired with BNB: <mark style="color:red;">**PCS direct link (coming soon...)**</mark>\
 \
 _<mark style="background-color:red;">Activate the notifications on</mark>_ [_<mark style="background-color:red;">Telegram Announcement Canal</mark>_](https://t.me/EquilibrrrriumAnn) _<mark style="background-color:red;">to be ready!</mark>_
 
