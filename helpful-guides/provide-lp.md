@@ -14,4 +14,4 @@ BRRRRSHARE: <mark style="color:red;">BRRRRSHARE Contract Address (coming soon...
 
 Click on supply and accept the transaction in your wallet.\
 \
-Now that you have provided LP, you can head over to[ equilibrrrrium.money](https://app.bomb.money) and[ farm your LPs](https://app.bomb.money/farm).
+Now that you have provided LP, you can head over to[ equilibrrrrium.money](https://app.equilibrrrrium.money) and[ farm your LPs](https://app.equilibrrrrium.money/farm).
