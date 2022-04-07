@@ -25,13 +25,17 @@ _<mark style="background-color:red;">Activate the notifications on</mark>_ [_<ma
 BRRRR Shares (BRRRRSHARE) are one of the ways to measure the value of the EquiliBRRRRium Protocol and shareholder trust in its ability to consistently maintain BRRRR close to peg. During epoch expansions the protocol mints BRRRR and distributes it proportionally to all BRRRRSHARE holders who have staked their tokens in the Boardroom.
 
 \
-1- Treasury/DAO Allocation: **XXXXXXXX** BRRRRSHARE vested linearly 12 months\*&#x20;
+**1-** <mark style="color:blue;">**Treasury/DAO Allocation**</mark>**:** \
+4500 BRRRRSHARE vested linearly 12 months\* + 500 BRRRRSHARE airdropped&#x20;
 
-2- Team Allocation: **XXXXXXXX** BRRRRSHARE vested linearly over 12 months&#x20;
+**2-** <mark style="color:blue;">**Team Allocation**</mark>**:** \
+4640 BRRRRSHARE vested linearly over 12 months + 358 BRRRRSHARE airdropped&#x20;
 
-3- Rewards: **XXXXXXXX** BRRRRRSHARE are allocated for incentivizing liquidity providers in two farming pools for 12 months&#x20;
+**3-** <mark style="color:blue;">**Rewards:**</mark> \
+60000 BRRRRRSHARE are allocated for incentivizing liquidity providers in two farming pools for 12 months
 
-4- Initial mint: 1 BRRRRSHARE minted upon contract creation for the initial pool
+**4-** <mark style="color:blue;">**Initial mint**</mark>**:** \
+2 BRRRRSHARE minted upon contract creation for the initial pool"
 
 {% hint style="success" %}
 The EquiliBRRRRium team will use the treasury funds in any way that they feel is best for the long-term success of the protocol.
