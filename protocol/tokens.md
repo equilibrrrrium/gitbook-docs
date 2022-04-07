@@ -4,7 +4,8 @@
 
 ![EquiliBRRRRium BRRRR token](../.gitbook/assets/brrrr.png)
 
-Contract: [0x0000000000000000000000000000000000](https://bscscan.com/address/0x522348779dcb2911539e76a1042aa922f9c47ee3)
+Contract: **coming soon**\
+_<mark style="background-color:red;">Activate notifications on our</mark>_ [_<mark style="background-color:red;">Telegram Announcement Canal</mark>_](https://t.me/EquilibrrrriumAnn) _<mark style="background-color:red;">to be ready</mark>_
 
 The BRRRR token is designed to be used as a medium of exchange. The built-in stability mechanisms within the protocol aim to maintain BRRRR's peg of 10,000 BRRRR = 1 Binance Coin (BNB) in the long run.
 

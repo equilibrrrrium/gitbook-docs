@@ -9,10 +9,10 @@ description: >-
 Congratulations! You've made it this far. Now that you're ready to start using EquiliBRRRRium to earn some great yields, let's look at some basic strategies you can follow as a framework for your own investment strategy. We'll break things down by complexity and relative risk, so feel free to mix and match elements according to your own level of experience, investment goals, and risk tolerance..
 
 {% hint style="danger" %}
-The strategies described here are intended only to illustrate how to use the Bomb Money protocol and **do not constitute financial advice**. Always do your own research and make your own decisions with regard to how you use EquiliBRRRRium.
+The strategies described here are intended only to illustrate how to use the EquiliBRRRRium Money protocol and **do not constitute financial advice**. Always do your own research and make your own decisions with regard to how you use EquiliBRRRRium.
 {% endhint %}
 
-**Semi-active Restaking Strategy**
+### **Semi-active Restaking Strategy**
 
 Once you have familiarized yourself with EquiliBRRRRium and how everything works, you might be interested to try an active and advanced strategy to diversify your passive income streams and potentially increase yields.&#x20;
 
