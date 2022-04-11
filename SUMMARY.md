@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Go to the Dapp!](https://app.equilibrrrrium.money)
+* [🐘 Go to the Dapp!](https://app.equilibrrrrium.money)
 
 ## 🔥 Welcome / Start Here
 
