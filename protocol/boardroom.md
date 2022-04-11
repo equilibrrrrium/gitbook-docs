@@ -68,7 +68,7 @@ Note that the Boardroom **does not** print any rewards for BRRRRSHARE stakers wh
 9. **How can I figure out what my future BRRRR rewards will be from the Boardroom?**\
    ****Let's take a look at a simplified example for a non-debt phase: say you have 1 BRRRRSHARE staked out of 10 total BRRRRSHAREs staked in the Boardroom. In this case, you will receive 10% of the total BRRRR printed in the Boardroom.\
    \
-   For this example we are assuming that there is a total circulating supply of 10,000 BRRRR and the current expansion rate is at 4%, so a total of 400 BRRRR will be printed in the Boardroom. Under the protocol's current rules, 60% of those newly printed BRRRR will be distributed to BRRRRSHARE stakers in the Boardroom. (See the[ BRRRR Distribution](https://contact-equilibrrrrium.gitbook.io/protocol/protocol/bomb-distribution) page for more details on how BRRRR is distributed within the protocol.)\
+   For this example we are assuming that there is a total circulating supply of 10,000 BRRRR and the current expansion rate is at 4%, so a total of 400 BRRRR will be printed in the Boardroom. Under the protocol's current rules, 60% of those newly printed BRRRR will be distributed to BRRRRSHARE stakers in the Boardroom. (See the[ BRRRR Distribution](bomb-distribution.md) page for more details on how BRRRR is distributed within the protocol.)\
    \
    Therefore, you would get: ((0.04 \* 10000) \* 0.6) \* (1/10) = 24 BRRRR\
    \
