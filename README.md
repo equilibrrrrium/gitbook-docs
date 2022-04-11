@@ -23,6 +23,8 @@ Equilibrium will launch on **April 23th, 2022 at 3pm UTC**. &#x20;
 
 `Please stare at the countdown on our Dapp to be ready!` :eyes: ``&#x20;
 
+**Look at our** [**Roadmap** ](protocol/roadmap.md)**to know more about the launch.**&#x20;
+
 ### Purpose
 
 EquiliBRRRRium is an algostablecoin seigniorage protocol. The goal is to provide the means for its underlying BRRRR asset to maintain a value that is algorithmically pegged to the value of BNB at a 10 000:1 ratio.
