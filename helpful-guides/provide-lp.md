@@ -2,7 +2,7 @@
 
 In order to provide liquidity, you'll first have to purchase either BRRRR or BRRRRSHARE (have a look at our "[How to Buy BRRRR](../welcome-start-here/faq-getting-started/how-to-buy-bomb.md)" section if you need help in doing so), depending on which you want to provide liquidity for.
 
-Providing liquidity is possible on **PancakeSwap** (<mark style="color:red;"><-</mark> _<mark style="color:red;">put the direct Link to PCS LP Add</mark>_). Head over to the Liquidity tab on the left side of your screen. Connect your wallet (make sure your Metamask is on the BSC Network).
+Providing liquidity is possible on **PancakeSwap** (<mark style="color:red;"><-</mark> _<mark style="color:red;">direct link to PCS LP Add | coming soon...</mark>_). Head over to the Liquidity tab on the left side of your screen. Connect your wallet (make sure your Metamask is on the BSC Network).
 
 Now you have to choose the tokens you wish to add liquidity with. For the first, select BNB. For the second, choose either BRRRR or BSRRRRHARE, respectively&#x20;
 
