@@ -20,7 +20,7 @@ Note that during a zen epoch (when an epoch ends with a TWAP between 1.0 - 1.01)
 
 ### Where can I buy BRRRRBOND (Bonds)?
 
-YYou can buy BRRRRBONDs if any are available through (equilibrrrrium.money) in the Pit. Anyone can buy as many BRRRRBONDs as they want as long as they have enough BRRRR to pay for them. There is a limit of available BRRRRBONDs per epoch during contraction periods (3% of BRRRR's current circulating supply), and are sold first-come-first-serve.
+You can buy BRRRRBONDs if any are available through (equilibrrrrium.money) in the Pit. Anyone can buy as many BRRRRBONDs as they want as long as they have enough BRRRR to pay for them. There is a limit of available BRRRRBONDs per epoch during contraction periods (3% of BRRRR's current circulating supply), and are sold first-come-first-serve.
 
 ### Why should I buy BRRRRBOND (Bonds)?
 
