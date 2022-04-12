@@ -18,8 +18,8 @@
 * [Bonds (BRRRRBOND)](protocol/bonds-mechanism.md)
 * [Farms](protocol/farms.md)
 * [Roadmap](protocol/roadmap.md)
-* [Treasury Transactions](protocol/treasury-transactions.md)
 * [Other Protocol Contract Addresses](protocol/other-protocol-contract-addresses.md)
+* [Treasury Transactions](protocol/treasury-transactions.md)
 
 ## 🔥 Helpful Guides
 
