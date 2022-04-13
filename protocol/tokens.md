@@ -41,7 +41,7 @@ The EquiliBRRRRium team will use the treasury funds in any way that they feel is
 
 ## **BRRRRBOND - BRRRR Bonds**
 
-![Equilibrium BRRRRBOND token](../.gitbook/assets/brrrrbond.png)
+![Equilibrium BRRRRBOND token](../.gitbook/assets/BRRRRBOND\_200x200.png)
 
 **Contract:** [https://bscscan.com/token/0x636768cE44Ce1b25AfA806F0721478610BeBCe26](https://bscscan.com/token/0x636768cE44Ce1b25AfA806F0721478610BeBCe26)\
 \
