@@ -2,13 +2,13 @@
 
 * [🐘 Go to the Dapp!](https://app.equilibrrrrium.money)
 
-## 🔥 Welcome / Start Here
+## 🔥 Start Here
 
 * [🤓 Welcome ](README.md)
-* [Getting Started](welcome-start-here/faq-getting-started/README.md)
-  * [Getting Funds to BNB Chain](welcome-start-here/faq-getting-started/getting-funds-to-binance-smart-chain-bsc.md)
-  * [How to Buy BRRRR](welcome-start-here/faq-getting-started/how-to-buy-bomb.md)
-* [Strategies](welcome-start-here/strategies.md)
+* [Getting Started](start-here/faq-getting-started/README.md)
+  * [Getting Funds to BNB Chain](start-here/faq-getting-started/getting-funds-to-binance-smart-chain-bsc.md)
+  * [How to Buy BRRRR](start-here/faq-getting-started/how-to-buy-bomb.md)
+* [Strategies](start-here/strategies.md)
 
 ## 🔥 Protocol
 

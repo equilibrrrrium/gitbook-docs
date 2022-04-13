@@ -1,6 +1,6 @@
 # Provide LP
 
-In order to provide liquidity, you'll first have to purchase either BRRRR or BRRRRSHARE (have a look at our "[How to Buy BRRRR](../welcome-start-here/faq-getting-started/how-to-buy-bomb.md)" section if you need help in doing so), depending on which you want to provide liquidity for.
+In order to provide liquidity, you'll first have to purchase either BRRRR or BRRRRSHARE (have a look at our "[How to Buy BRRRR](../start-here/faq-getting-started/how-to-buy-bomb.md)" section if you need help in doing so), depending on which you want to provide liquidity for.
 
 Providing liquidity is possible on: [**PancakeSwap Add Liquidity**](https://pancakeswap.finance/add/0x4751DA8d11981C13e373faB22D4BbD1913c814bd/BNB).
 
