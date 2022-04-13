@@ -16,7 +16,7 @@ Note that BRRRR actively pegs via an algorithm, but that does not mean it will b
 
 ## BRRRRSHARES - BRRRR Shares
 
-![BRRRRSHARE EquiliBRRRRium token](../.gitbook/assets/BRRRRSHARE\_200x200.png)
+![EquiliBRRRRium BRRRRSHARE token](../.gitbook/assets/BRRRRSHARE\_200x200.png)
 
 **Contract:** [https://bscscan.com/token/0xDB875d483328B8a336558cd833a589ABB6248CAF](https://bscscan.com/token/0xDB875d483328B8a336558cd833a589ABB6248CAF)\
 \
