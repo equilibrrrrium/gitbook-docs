@@ -2,7 +2,7 @@
 description: About Equilibrrrrium.money
 ---
 
-# Introduction
+# 🤓 Welcome&#x20;
 
 ## Introduction
 
