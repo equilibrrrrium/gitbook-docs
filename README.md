@@ -18,7 +18,7 @@ EquiliBRRRRium is rooted in the excellent work of the BSC project called Bomb.Mo
 
 
 {% hint style="info" %}
-Equilibrium will launch on **April 23th, 2022 at 3pm UTC**. &#x20;
+Equilibrium will launch on **April 23rd, 2022 at 3pm UTC**. &#x20;
 {% endhint %}
 
 `Please stare at the countdown on our Dapp to be ready!` :eyes: ``&#x20;
