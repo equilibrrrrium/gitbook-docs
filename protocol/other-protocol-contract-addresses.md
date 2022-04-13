@@ -6,7 +6,7 @@
 | ----------------------------------------- | ------------------------------------------ |
 | Multisig DAO address                      | 0x5c19cb007D770BD21Ab33c3910945b45378d71C9 |
 | Multisig Dev address                      | 0x5a2AF22c90B4c3C83ED87b05aa5a9e4c41bb1506 |
-| Boadroam (Treasury)                       | 0x21C915f3131Aea725b4ad605C703A706F0F2d153 |
+| Boardroam (Treasury)                      | 0x21C915f3131Aea725b4ad605C703A706F0F2d153 |
 | Oracle                                    | 0xa4DCb1Cedc7F3416e3b23423243289A826426A6d |
 | Brrrrbank                                 | 0xC75A0Bc15c60BFB28b1855E3d7A426390Bc5fDC0 |
 | <p>BnbGenesis</p><p>RewardPool</p>        | 0x2F00947e1D9C988b77E9898f7dC5FBe399E0474B |
