@@ -2,7 +2,7 @@
 
 ## BRRRR - EquiliBRRRRium Token
 
-![EquiliBRRRRium BRRRR token](../.gitbook/assets/brrrr.png)
+![EquiliBRRRRium BRRRR token](../.gitbook/assets/BRRRR\_200x200.png)
 
 **Contract:** [https://bscscan.com/token/0x4751DA8d11981C13e373faB22D4BbD1913c814bd](https://bscscan.com/token/0x4751DA8d11981C13e373faB22D4BbD1913c814bd)\
 \
@@ -16,7 +16,7 @@ Note that BRRRR actively pegs via an algorithm, but that does not mean it will b
 
 ## BRRRRSHARES - BRRRR Shares
 
-![BRRRRSHARE EquiliBRRRRium token](../.gitbook/assets/brrrrshares.png)
+![BRRRRSHARE EquiliBRRRRium token](../.gitbook/assets/BRRRRSHARE\_200x200.png)
 
 **Contract:** [https://bscscan.com/token/0xDB875d483328B8a336558cd833a589ABB6248CAF](https://bscscan.com/token/0xDB875d483328B8a336558cd833a589ABB6248CAF)\
 \
