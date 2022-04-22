@@ -13,7 +13,8 @@
 | <p>BrrrrBnbLPGenesis</p><p>RewardPool</p> | 0x8B68544f26A3010ff80De6973B8F0Be4cA97BD3e                                                                                                                          |
 | <p>BrrrrShare</p><p>RewardPool</p>        | 0x6932CC7b6C98eE826EF3F87898F8f2376870a639                                                                                                                          |
 | Zap                                       | 0x1B238F3FD3eC94b41ae135fB8F1efb7Dc75ae185                                                                                                                          |
-| Renonced BRRRR                            | [`0x52287a0088cee5a4e064cc6280b807b6d3e5ca67d46fe293f66c3a9743e5f514`](https://bscscan.com/tx/0x52287a0088cee5a4e064cc6280b807b6d3e5ca67d46fe293f66c3a9743e5f514)`` |
-| Renonced BRRRRBOND                        | [`0xec59a2711a301bb21474ae6477202167a012bb28ba69525d01a5becd018042c1`](https://bscscan.com/tx/0xec59a2711a301bb21474ae6477202167a012bb28ba69525d01a5becd018042c1)`` |
+| **Renonced BRRRR**                        | [`0x52287a0088cee5a4e064cc6280b807b6d3e5ca67d46fe293f66c3a9743e5f514`](https://bscscan.com/tx/0x52287a0088cee5a4e064cc6280b807b6d3e5ca67d46fe293f66c3a9743e5f514)`` |
+| **Renonced BRRRRBOND**                    | [`0xec59a2711a301bb21474ae6477202167a012bb28ba69525d01a5becd018042c1`](https://bscscan.com/tx/0xec59a2711a301bb21474ae6477202167a012bb28ba69525d01a5becd018042c1)`` |
+| **Renonced BRRRRSHARE**                   | `in progress...`                                                                                                                                                    |
 
 &#x20;
