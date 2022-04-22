@@ -1,5 +1,9 @@
 # Tokens
 
+#### `All Tokens Contracts ownership are renonced 🥰`
+
+Transparency is one of our leitmotiv: `` [`Check it`](other-protocol-contract-addresses.md)``
+
 ## BRRRR - EquiliBRRRRium Token
 
 ![EquiliBRRRRium BRRRR token](../.gitbook/assets/BRRRR\_200x200.png)
