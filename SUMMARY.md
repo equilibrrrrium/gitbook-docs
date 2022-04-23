@@ -31,3 +31,4 @@
 * [Medium](https://equilibrrrrium.medium.com)
 * [Twitter](https://twitter.com/Equilibrrrrium)
 * [Linktree](https://linktr.ee/equilibrrrrium)
+* [GitHub](https://github.com/equilibrrrrium)
