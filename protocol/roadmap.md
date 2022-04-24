@@ -23,7 +23,7 @@ _Last updated April 11th, 2022_
 
 * [x] April, 12th 2022, 7pm UTC: Front Dapp with Genesis pools deposit & Token Listing&#x20;
 * [x] **April, 23rd 2022, 7pm UTC: Genesis pools ACTIVE (24h duration) BRRRRR! 💥**
-* [ ] April, 24th 2022, 7pm UTC: Genesis pools over & Protocol Launch (Farm|Boardroom|Bond)_💥_
+* [x] April, 24th 2022, 7pm UTC: Genesis pools over & Protocol Launch (Farm|Boardroom|Bond)_💥_
 
 **Project planning :**&#x20;
 
