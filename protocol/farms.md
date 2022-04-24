@@ -21,7 +21,7 @@ BRRRRSHARE reward emissions for the current LP farms are scheduled to end on- in
 
 When BRRRR is pegged or close to being pegged at 10,000 BRRRR to 1 BNB, it is more akin to having exposure to a single asset (single staking) than to your traditional LP'ing experience, where you would run the risk of impermanent loss if one of the tokens went up in value and the other did not.
 
-### 3. Wait, you mean that if BTC pumps, BRRRR pumps with it?
+### 3. Wait, you mean that if BNB pumps, BRRRR pumps with it?
 
 **Yes!**\
 \
